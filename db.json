@@ -1,15 +1,82 @@
 {
-  "services": [{
+  "getPosts": [{
+      "title": "Post sobre nós",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem scelerisque faucibus nulla nunc pretium vivamus. Aliquam convallis egestas mattis feugiat cras risus nunc, nisl. Tempus turpis ornare commodo pharetra, egestas lobortis. </br></br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem scelerisque faucibus nulla nunc pretium vivamus. Aliquam convallis egestas mattis feugiat cras risus nunc, nisl. Tempus turpis ornare commodo pharetra, egestas lobortis.  </br></br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem scelerisque faucibus nulla nunc pretium vivamus. Aliquam convallis egestas mattis feugiat cras risus nunc, nisl. Tempus turpis ornare commodo pharetra, egestas lobortis.  </br></br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem scelerisque faucibus nulla nunc pretium vivamus. Aliquam convallis egestas mattis feugiat cras risus nunc, nisl. Tempus turpis ornare commodo pharetra, egestas lobortis. ",
+      "visibleHome": true
+    },
+    {
+      "title": "Post sobre a empresa",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem scelerisque faucibus nulla nunc pretium vivamus. Aliquam convallis egestas mattis feugiat cras risus nunc, nisl. Tempus turpis ornare commodo pharetra, egestas lobortis. </br></br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem scelerisque faucibus nulla nunc pretium vivamus. Aliquam convallis egestas mattis feugiat cras risus nunc, nisl. Tempus turpis ornare commodo pharetra, egestas lobortis.  </br></br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem scelerisque faucibus nulla nunc pretium vivamus. Aliquam convallis egestas mattis feugiat cras risus nunc, nisl. Tempus turpis ornare commodo pharetra, egestas lobortis.  </br></br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem scelerisque faucibus nulla nunc pretium vivamus. Aliquam convallis egestas mattis feugiat cras risus nunc, nisl. Tempus turpis ornare commodo pharetra, egestas lobortis. ",
+      "visibleHome": true
+    },
+    {
+      "title": "Post sobre os produtos",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem scelerisque faucibus nulla nunc pretium vivamus. Aliquam convallis egestas mattis feugiat cras risus nunc, nisl. Tempus turpis ornare commodo pharetra, egestas lobortis. </br></br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem scelerisque faucibus nulla nunc pretium vivamus. Aliquam convallis egestas mattis feugiat cras risus nunc, nisl. Tempus turpis ornare commodo pharetra, egestas lobortis.  </br></br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem scelerisque faucibus nulla nunc pretium vivamus. Aliquam convallis egestas mattis feugiat cras risus nunc, nisl. Tempus turpis ornare commodo pharetra, egestas lobortis.  </br></br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem scelerisque faucibus nulla nunc pretium vivamus. Aliquam convallis egestas mattis feugiat cras risus nunc, nisl. Tempus turpis ornare commodo pharetra, egestas lobortis. ",
+      "visibleHome": true
+    },
+    {
+      "title": "Post sobre os equipe",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem scelerisque faucibus nulla nunc pretium vivamus. Aliquam convallis egestas mattis feugiat cras risus nunc, nisl. Tempus turpis ornare commodo pharetra, egestas lobortis. </br></br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem scelerisque faucibus nulla nunc pretium vivamus. Aliquam convallis egestas mattis feugiat cras risus nunc, nisl. Tempus turpis ornare commodo pharetra, egestas lobortis.  </br></br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem scelerisque faucibus nulla nunc pretium vivamus. Aliquam convallis egestas mattis feugiat cras risus nunc, nisl. Tempus turpis ornare commodo pharetra, egestas lobortis.  </br></br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem scelerisque faucibus nulla nunc pretium vivamus. Aliquam convallis egestas mattis feugiat cras risus nunc, nisl. Tempus turpis ornare commodo pharetra, egestas lobortis. ",
+      "visibleHome": false
+    }
+  ],
+  "getServices": [{
       "id": 1,
       "title": "Sistemas Web",
       "subtitle": "Desenvolvimento de sistemas web, exclusivo para cada perfil, gerando resultados positivos.",
-      "description": "A grande vantagem de se ter um sistema web personalizado é que como ele foi desenvolvido exclusivamente para a sua empresa, ele será um sistema que vai atender 100% das suas necessidades. Você terá a opção de contratar um sistema web feito sob medida, exclusivamente para sua empresa, o que fará com que os benefícios internos se tornem ainda maiores."
+      "description": "A grande vantagem de se ter um sistema web personalizado é que como ele foi desenvolvido exclusivamente para a sua empresa, ele será um sistema que vai atender 100% das suas necessidades. Você terá a opção de contratar um sistema web feito sob medida, exclusivamente para sua empresa, o que fará com que os benefícios internos se tornem ainda maiores.",
+      "icon": "fa fa-television",
+      "visibleHome": true
     },
     {
       "id": 2,
       "title": "Aplicativos Celular e Tablets",
       "subtitle": "Desenvolvimento de aplicativos híbridos para Android e IOS, com hospedagem nas lojas.",
-      "description": "A Cronos Digital é uma empresa especialista em desenvolvimento de aplicativo moveis para Android, iPhone, iPad, Windows Phone e Windows Store. Provemos a melhor experiência ao usuário, criamos aplicativos que de fato agregam a você ou ao seu negócio."
+      "description": "A Cronos Digital é uma empresa especialista em desenvolvimento de aplicativo moveis para Android, iPhone, iPad, Windows Phone e Windows Store. Provemos a melhor experiência ao usuário, criamos aplicativos que de fato agregam a você ou ao seu negócio.",
+      "icon": "fa fa-tablet",
+      "visibleHome": true
+    },
+    {
+      "id": 3,
+      "title": "Campanhas Marketing",
+      "subtitle": "Campanha Google Adwords, Facebook Ads e Youtube Ads. Posicionamento Digital e SEO.",
+      "description": "Pesquisas apontam que mais de 70% dos negócios iniciam em buscas no Google. E você, como procura produtos e serviços? O Google separa as busca em patrocinadas (anúncios pagos) nas 4 primeiras posições, em seguida mais 10 ocorrências orgânicas (por relevância do site). Apareça nas buscas do Google e aumente suas vendas. Otimização da conta AdWords com Anúncios mais Atraentes e Palavras Chave mais Eficazes.",
+      "icon": "fa fa-cubes",
+      "visibleHome": true
+    },
+    {
+      "id": 3,
+      "title": "Servidor de Hospedagem",
+      "subtitle": "Hospede seu site em um ambiente otimizado, seguro, com performance e marketing.",
+      "description": "A Cronos Digital disponibiliza no seu plano de hospedagem tudo o que você precisa para ter um site profissional. Todos os recursos que seu site precisa para crescer, garantindo o melhor custo benefício para seu negócio online e diversas outras vantagens.",
+      "icon": "fa fa-share-alt",
+      "visibleHome": true
     }
-  ]
+  ],
+  "GetTextAboutUs": {
+    "title": "",
+    "description": "A Cronos Digital conduz as atividades com padrões éticos, morais, técnicos e legais, através do Sistema de gestão integrado de QSMS, seguindo os valores: foco no cliente, melhoria contínua, desenvolvimento sustentável, governança corporativa, prevenção da poluição e outros impactos adversos.",
+    "texts": [{
+        "title": "Missão",
+        "description": "Permitir que pessoas e negócios em todo o mundo possam alcançar o máximo de seu potencial, estando sempre próximo ao cliente, oferecendo possibilidades inovadoras de conectividade, criando condições para que uma maior numero de pessoas possa se conectar, focando em suas expectativas e necessidades diversificadas, contribuindo como agente de evolução social por meio de uma gestão sustentável.",
+        "icon": "fa fa-flag-o"
+      },
+      {
+        "title": "Visão",
+        "description": "Sempre buscar tecnologias e soluções completas, oferecendo serviços inovadores e de alta qualidade, ficando como referência de rentabilidade, qualidade, confiança e marketing share do mercado digital.",
+        "icon": "fa fa-eye"
+      },
+      {
+        "title": "Valores",
+        "description": " Qualidade é o compromisso com todos os nossos clientes na busca por um patamar sempre superior de produtos e serviços. O caminho da qualidade é entender e perseguir a necessidade do cliente, criando produtos, sistemas e serviços confiáveis. <br/> <br/> Ética Comprometimento da empresa em agir de conformidade com os princípios morais e as regras do bem proceder aceitas pela coletividade. <br/> <br/> Pessoas entusiasmadas são apaixonadas pelo que fazem, acreditam no poder que tem de transformar o mundo e fazer as coisasdarem certo.",
+        "icon": "fa fa-diamond"
+      }
+    ]
+  },
+  "getEmployee": [{ "name": "Geovana", "description": "Desenvolvedora front-end", "avatar": "https://img.freepik.com/fotos-gratis/mulher-com-cabelo-fofo-segura-um-tablet-moderno-e-a-caneta-cria-fotos-ou-edita-fotos-trabalha-ao-ar-livre-usa-poses-casuais-com-capuz-em-um-banco-de-madeira-durante-o-dia-focado-em-algum-lugar_273609-55916.jpg?size=626&ext=jpg" }],
+  "getFolderHome": {
+    "imgUrl": "https://img.freepik.com/fotos-gratis/mulher-com-cabelo-fofo-segura-um-tablet-moderno-e-a-caneta-cria-fotos-ou-edita-fotos-trabalha-ao-ar-livre-usa-poses-casuais-com-capuz-em-um-banco-de-madeira-durante-o-dia-focado-em-algum-lugar_273609-55916.jpg?size=626&ext=jpg",
+    "title": "GAMA STATION",
+    "subtitle": "Troque sua coleção de certificados por experiências práticas!"
+  }
 }

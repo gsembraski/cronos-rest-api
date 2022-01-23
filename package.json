@@ -1,5 +1,24 @@
 {
+  "name": "cronos-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {},
   "scripts": {
-    "start": "npx json-server -p 3000 -w db.json --routes routes.json --host 0.0.0.0"
-  }
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsembraski/cronos-rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsembraski/cronos-rest-api/issues"
+  },
+  "homepage": "https://github.com/gsembraski/cronos-rest-api#readme"
 }
