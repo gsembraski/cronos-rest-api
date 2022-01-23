@@ -1,0 +1,15 @@
+{
+  "services": [{
+      "id": 1,
+      "title": "Sistemas Web",
+      "subtitle": "Desenvolvimento de sistemas web, exclusivo para cada perfil, gerando resultados positivos.",
+      "description": "A grande vantagem de se ter um sistema web personalizado é que como ele foi desenvolvido exclusivamente para a sua empresa, ele será um sistema que vai atender 100% das suas necessidades. Você terá a opção de contratar um sistema web feito sob medida, exclusivamente para sua empresa, o que fará com que os benefícios internos se tornem ainda maiores."
+    },
+    {
+      "id": 2,
+      "title": "Aplicativos Celular e Tablets",
+      "subtitle": "Desenvolvimento de aplicativos híbridos para Android e IOS, com hospedagem nas lojas.",
+      "description": "A Cronos Digital é uma empresa especialista em desenvolvimento de aplicativo moveis para Android, iPhone, iPad, Windows Phone e Windows Store. Provemos a melhor experiência ao usuário, criamos aplicativos que de fato agregam a você ou ao seu negócio."
+    }
+  ]
+}
